@@ -1,6 +1,6 @@
 # AvWx Brief
 
-A script that compiles a weather briefing for a pre-defined flight using data derived from aviationweather.gov API.
+Aviation Weather Brief (AvWx Brief) - A script that compiles a weather briefing for a pre-defined flight using data derived from aviationweather.gov API.
 
 ## Why AvWx Brief?
 
@@ -23,3 +23,9 @@ AvWx Brief shortens the time a pilot will take on the ground obtaining a data-dr
   - Store Enroute weather information
   - Minor flight planning features such as Velocity & Altitude information
   - Output result to HTML
+
+## How to Use
+
+  - Install Python, download and install this package to a directory of your choice.
+  - Open config.ini, plug in the parameters of your choice
+  - Run script
